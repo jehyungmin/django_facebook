@@ -1,5 +1,3 @@
-wsgi.py
-
 import os
 import sys
 
