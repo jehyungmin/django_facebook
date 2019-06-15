@@ -3,7 +3,7 @@ wsgi.py
 import os
 import sys
 
-path = '/home/자신의pythonanywhere이름/django_facebook'
+path = '/home/jehyungmin/django_facebook'
 if path not in sys.path:
     sys.path.append(path)
 
